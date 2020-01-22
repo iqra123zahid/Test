@@ -1,0 +1,24 @@
+scraping data
+
+searched data : voice
+
+displaying first 10 searches:
+PaulWoitaschek/Voice
+CorentinJ/Real-Time-Voice-Cloning
+liaojinxing/Voice2Note
+mozilla/voice-web
+andabi/deep-voice-conversion
+jasperproject/jasper-client
+zenorocha/voice-elements
+plivo/voicechat
+ws123/VoiceLine
+feross/simple-peer
+
+for the first search:
+PaulWoitaschek/Voice
+number of likes: 1.2k
+language used: kotlin
+
+for the second search:CorentinJ/Real-Time-Voice-Cloning
+number of likes: 14.9k
+language used: python
