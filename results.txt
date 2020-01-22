@@ -16,9 +16,9 @@ feross/simple-peer
 
 for the first search:
 PaulWoitaschek/Voice
-number of likes: 1.2k
+ratings: 1.2k
 language used: kotlin
 
 for the second search:CorentinJ/Real-Time-Voice-Cloning
-number of likes: 14.9k
+ratings: 14.9k
 language used: python
