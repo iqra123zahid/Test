@@ -1,0 +1,310 @@
+VOICE CLASSIFICATION:
+
+Repositories
+138
+Code
+622K+
+Commits
+123
+Issues
+1K
+Packages
+0
+Marketplace
+0
+Topics
+0
+Wikis
+302
+Users
+1
+
+Languages
+45
+Jupyter Notebook
+45
+Python
+8
+MATLAB
+5
+JavaScript
+5
+R
+2
+C
+2
+HTML
+2
+Java
+1
+Roff
+1
+Perl 6
+
+FIRST 10 REPOSITORIES:
+
+hamzag95/voice-classification
+tiepvupsu/zalo_voice
+manishmalik/VoiceClassification
+gionanide/Speech_Signal_Processing_and_Classification
+singhamanraj/Gender-Voice-Recognition_Machine_Learning
+keums/melodyExtraction_JDC
+anshulshah96/Voice-Synthesizer
+theSoenke/VoiceClassification
+dashayushman/Voice
+gwillig/Digital-signal-processing-2-Voice-recognition-classification
+
+
+ENTIRE DATA FOR FIRST 10 REPOSITORIES:
+
+hamzag95/voice-classification
+62
+Jupyter Notebook
+Updated on Oct 24, 2019tiepvupsu/zalo_voice
+Zalo AI chalenge Voice Gender classification (https://challenge.zalo.ai/)
+87
+Python
+Updated on Sep 7, 2018manishmalik/Voice-Classification
+Gender Classification from voice
+11
+Python
+Updated on Apr 27, 2015gionanide/Speech_Signal_Processing_and_Classification
+interesting in voice disorder classification. That is, to develop two-class classifiers, which can discriminate betw…
+speech-processing speech-utterance linear-prediction-coefficients mfcc classifier nlp natural-language-processing feature-extraction nltk gaussian-mixture-models support-vector-machines principal-component-analysis linear-discriminant-analysis isomap spectral-clustering long-short-term-memory kernel-pca spectral-embedding locally-linear-embedding
+94
+Python
+MIT license
+Updated on Nov 13, 2019singhamanraj/Gender-Voice-Recognition_Machine-Learning
+Supervised Machine Learning Classification Algorithms using Python and R (Logistic Regression, Decision Tree, Random …
+random-forest logistic-regression python-3 decision-tree svm-classifier scikitlearn-machine-learning rprogramming
+6
+Jupyter Notebook
+Updated on May 13, 2018keums/melodyExtraction_JDC
+"Joint Detection and Classification of Singing Voice Melody Using Convolutional Recurrent Neural Networks"
+melody-extraction deep-learning
+14
+Jupyter Notebook
+MIT license
+Updated 28 days agoanshulshah96/Voice-Synthesizer
+Voice based Classification
+3
+Jupyter Notebook
+MIT license
+Updated on May 12, 2017theSoenke/VoiceClassification
+Voice Classification with the Mozilla Common Voice Dataset
+5
+Python
+MIT license
+Updated on Feb 14, 2018dashayushman/Voice
+to support people with partial or total speech impairment and elderly citizens with speech or motor impairment with …
+3
+JavaScript
+Updated on Jan 11, 2017gwillig/Digital-signal-processing-2-Voice-recognition-classification
+This project trains a computer program to identify the voice of the speaker. It was a part of the master's degree (El…
+1
+Python
+Updated on Apr 30, 2019
+
+
+LINKS OF FIRST 10 REPOSITORIES:
+
+https://github.com/hamzag95/voice-classification
+https://github.com/tiepvupsu/zalo_voice
+https://github.com/manishmalik/Voice-Classification
+https://github.com/gionanide/Speech_Signal_Processing_and_Classification
+https://github.com/singhamanraj/Gender-Voice-Recognition_Machine-Learning
+https://github.com/keums/melodyExtraction_JDC
+https://github.com/anshulshah96/Voice-Synthesizer
+https://github.com/theSoenke/VoiceClassification
+https://github.com/dashayushman/Voice
+https://github.com/gwillig/Digital-signal-processing-2-Voice-recognition-classification
+
+FIRST REPOSITORY DATA:
+hamzag95/voice-classification
+62
+Jupyter Notebook
+Updated on Oct 24, 2019
+
+SECOND REPOSITORY DATA:
+tiepvupsu/zalo_voice
+Zalo AI chalenge Voice Gender classification (https://challenge.zalo.ai/)
+87
+Python
+Updated on Sep 7, 2018
+
+THIRD REPO DATA:
+manishmalik/Voice-Classification
+Gender Classification from voice
+11
+Python
+Updated on Apr 27, 2015
+
+FOURTH REPO DATA:
+gionanide/Speech_Signal_Processing_and_Classification
+interesting in voice disorder classification. That is, to develop two-class classifiers, which can discriminate betw…
+speech-processing speech-utterance linear-prediction-coefficients mfcc classifier nlp natural-language-processing feature-extraction nltk gaussian-mixture-models support-vector-machines principal-component-analysis linear-discriminant-analysis isomap spectral-clustering long-short-term-memory kernel-pca spectral-embedding locally-linear-embedding
+94
+Python
+MIT license
+Updated on Nov 13, 2019
+
+FIFTH REPO DATA:
+singhamanraj/Gender-Voice-Recognition_Machine-Learning
+Supervised Machine Learning Classification Algorithms using Python and R (Logistic Regression, Decision Tree, Random …
+random-forest logistic-regression python-3 decision-tree svm-classifier scikitlearn-machine-learning rprogramming
+6
+Jupyter Notebook
+Updated on May 13, 2018
+
+
+IMAGE CLASSIFICATION:
+
+Repositories
+12K
+Code
+5M+
+Commits
+31K
+Issues
+28K
+Packages
+0
+Marketplace
+0
+Topics
+32
+Wikis
+7K
+Users
+62
+
+
+Languages
+4,401
+Jupyter Notebook
+4,194
+Python
+1,150
+HTML
+463
+MATLAB
+285
+JavaScript
+192
+Java
+191
+C++
+118
+R
+64
+Swift
+57
+C#
+
+FIRST 10 REPOSITORIES:
+weiaicunzai/awesome-image-classification
+rdcolema/tensorflow-image-classification
+miraclewkf/ImageClassification-PyTorch
+hysts/pytorch_image_classification
+NVIDIA-AI-IOT/tf_to_trt_image_classification
+HRNet/HRNet-Image-Classification
+suraj-deshmukh/Keras-Multi-Label-Image-Classification
+fwang91/residual-attention-network
+wolfib/image-classification-CIFAR10-tf
+idealo/imageatm
+
+
+ENTIRE DATA FOR FIRST 10 REPOSITORIES:
+weiaicunzai/awesome-image-classification
+A curated list of deep learning image classification papers and codes
+deep-learning awesome computer-vision image-classification awesome-list papers
+1.1k
+Updated 15 days agordcolema/tensorflow-image-classification
+CNN for multi-class image recognition in tensorflow
+271
+Jupyter Notebook
+Updated on Dec 17, 2019miraclewkf/ImageClassification-PyTorch
+107
+Python
+Updated on Mar 7, 2019hysts/pytorch_image_classification
+PyTorch implementation of image classification models for CIFAR-10/CIFAR-100/MNIST/FashionMNIST/Kuzushiji-MNIST
+pytorch computer-vision cifar10 fashion-mnist
+386
+Python
+MIT license
+Updated on Jan 27, 2019NVIDIA-AI-IOT/tf_to_trt_image_classification
+Image classification with NVIDIA TensorRT from TensorFlow models.
+tensorflow-models benchmark jetson-tx2 tensorflow tensorrt
+371
+Python
+Updated on Jan 22, 2019HRNet/HRNet-Image-Classification
+Train the HRNet model on ImageNet
+imagenet image-classification high-resolution-net hrnets
+398
+Python
+MIT license
+Updated 12 days agosuraj-deshmukh/Keras-Multi-Label-Image-Classification
+Keras- Multi Label Image Classification
+multi-label natural-scenes deep-learning keras convolutional-neural-networks
+282
+Jupyter Notebook
+Updated 17 days agofwang91/residual-attention-network
+Residual Attention Network for Image Classification
+attention image-classification cvpr-2017
+457
+Updated on Jul 21, 2017wolfib/image-classification-CIFAR10-tf
+Simple Image Classification Models for the CIFAR-10 dataset using TensorFlow
+138
+Python
+MIT license
+Updated on Mar 23, 2017idealo/imageatm
+Image classification for everyone.
+image-classification transfer-learning machine-learning computer-vision deep-learning neural-network tensorflow keras
+169
+Python
+Apache-2.0 license
+Updated 10 days ago
+
+
+LINKS OF FIRST 10 REPOSITORIES:
+https://github.com/weiaicunzai/awesome-image-classification
+https://github.com/rdcolema/tensorflow-image-classification
+https://github.com/miraclewkf/ImageClassification-PyTorch
+https://github.com/hysts/pytorch_image_classification
+https://github.com/NVIDIA-AI-IOT/tf_to_trt_image_classification
+https://github.com/HRNet/HRNet-Image-Classification
+https://github.com/suraj-deshmukh/Keras-Multi-Label-Image-Classification
+https://github.com/fwang91/residual-attention-network
+https://github.com/wolfib/image-classification-CIFAR10-tf
+https://github.com/idealo/imageatm
+
+FIRST REPO DATA:
+weiaicunzai/awesome-image-classification
+A curated list of deep learning image classification papers and codes
+deep-learning awesome computer-vision image-classification awesome-list papers
+1.1k
+Updated 15 days ago
+
+SECOND REPO DATA:
+rdcolema/tensorflow-image-classification
+CNN for multi-class image recognition in tensorflow
+271
+Jupyter Notebook
+Updated on Dec 17, 2019
+
+THIRD REPO DATA:
+miraclewkf/ImageClassification-PyTorch
+107
+Python
+Updated on Mar 7, 2019
+
+FOURTH REPO DATA:
+hysts/pytorch_image_classification
+PyTorch implementation of image classification models for CIFAR-10/CIFAR-100/MNIST/FashionMNIST/Kuzushiji-MNIST
+pytorch computer-vision cifar10 fashion-mnist
+386
+Python
+MIT license
+Updated on Jan 27, 2019
+
+
